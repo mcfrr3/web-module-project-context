@@ -60,7 +60,7 @@
 
 .shopping-cart button {
 	border: 1px solid white;
-	background: transparent;
+	background: gray;
 	border-radius: 5px;
 	padding: 10px;
 	color: white;
